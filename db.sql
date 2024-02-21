@@ -1,0 +1,1 @@
+DATABASE=mysql+mysqlconnector://root:borja@localhost/examen_dwes
